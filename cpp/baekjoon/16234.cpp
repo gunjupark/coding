@@ -18,7 +18,6 @@ int pop[2501];
 
 int N, L , R;
 
-
 // DFS 또는 BFS로 연합 구분하기
 // 하나의 연합에 대해 generation 내의 연합 통합 후 찾기 (check or C)
 // 연합 체크 및 연합 크기 누적, 연합 개수 계산
